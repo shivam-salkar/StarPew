@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Double_the_Bits.ogg-9d52d2d6394e8a2b56850ebc6ece62c8.oggstr"
+
+[deps]
+
+source_file="res://Assets/Music/Double_the_Bits.ogg"
+dest_files=[ "res://.import/Double_the_Bits.ogg-9d52d2d6394e8a2b56850ebc6ece62c8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

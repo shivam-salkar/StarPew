@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Gust3.ogg-4c7b8867951265acbd0669ac759c9291.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Gust3.ogg"
+dest_files=[ "res://.import/Gust3.ogg-4c7b8867951265acbd0669ac759c9291.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
